@@ -1,0 +1,26 @@
+sw_volume: 65
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:The Cure/Disintegration (Remastered)/The Cure - Plainsong - Remastered.mp3
+1:The Cure/Disintegration (Remastered)/The Cure - Pictures Of You - Remastered.mp3
+2:The Cure/Disintegration (Remastered)/The Cure - Closedown - Remastered 2010.mp3
+3:The Cure/Disintegration (Remastered)/The Cure - Lovesong - Remastered.mp3
+4:The Cure/Disintegration (Remastered)/The Cure - Last Dance - Remastered.mp3
+5:The Cure/Disintegration (Remastered)/The Cure - Lullaby - Remastered.mp3
+6:The Cure/Disintegration (Remastered)/The Cure - Fascination Street - Remastered.mp3
+7:The Cure/Disintegration (Remastered)/The Cure - Prayers For Rain - Remastered.mp3
+8:The Cure/Disintegration (Remastered)/The Cure - The Same Deep Water As You - Remastered.mp3
+9:The Cure/Disintegration (Remastered)/The Cure - Disintegration - Remastered.mp3
+10:The Cure/Disintegration (Remastered)/The Cure - Homesick - Remastered.mp3
+11:The Cure/Disintegration (Remastered)/The Cure - Untitled - Remastered.mp3
+playlist_end
