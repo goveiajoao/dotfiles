@@ -1,9 +1,0 @@
-#!/bin/python
-import os
-import sys
-
-try:
-    sys.argv = sys.argv[1]
-    os.system(f"nvim --headless +'lua print(vim.g.terminal_color_{sys.argv})' +qa")
-except Exception:
-    pass
