@@ -1,1 +1,6 @@
-{"1": "~/Downloads/test", "0": "~/Downloads/test"}
+{
+    "syms": {
+        "0": "~/Downloads/test"
+    },
+    "deps": {}
+}
