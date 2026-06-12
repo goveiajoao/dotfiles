@@ -1,6 +1,7 @@
 {
     "syms": {
-        "0": "~/Downloads/test"
+        "0": "~/Downloads/test",
+        "1": "~/Downloads/testfile"
     },
     "deps": {}
 }
