@@ -2,5 +2,9 @@
     "syms": {
         "0": "~/Downloads/test"
     },
-    "deps": {}
+    "deps": {
+		"*": {
+			"which": ["dfctl_c", "dfctl", "dwm"],
+			"exists":["/home/goveiajoao/Documents/", "/home/goveiajoao/Desktop/"]}
+	}
 }
