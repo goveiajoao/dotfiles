@@ -5,6 +5,7 @@
     "deps": {
 		"*": {
 			"which": ["dfctl_c", "dfctl", "dwm"],
-			"exists":["/home/goveiajoao/Documents/", "/home/goveiajoao/Desktop/"]}
+			"exists": ["/home/goveiajoao/Documents/", "/home/goveiajoao/Desktop/"]
+		}
 	}
 }
